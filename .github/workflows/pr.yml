@@ -1,4 +1,4 @@
-name: Create Pull Request and Notifyshazeb
+name: Create Pull Request and Notifyshazebb
 
 on:
   push:
